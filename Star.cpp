@@ -4,10 +4,12 @@
 
 #include "Star.h"
 #include <string>
+#include <cmath>
 
-Star::Star(std::string type, unsigned long luminosity, long radius, unsigned long massa) {
+Star::Star(std::string type, double luminosity, double radius, double massa) {
     this->type = std::move(type);
     this->luminosity = luminosity;
     this->radius = radius;
     this->massa = massa;
 }
+
