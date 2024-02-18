@@ -8,8 +8,8 @@
 
 class SpaceObject {
 protected:
-    long radius;
-    unsigned long massa;
+    double radius;
+    double massa;
 public:
     SpaceObject();
 };
