@@ -5,12 +5,8 @@
 #include "BlackHole.h"
 #include <cmath>
 
-BlackHole::BlackHole(std::string type, double luminosity, double massa, double distance) : Star("black hole", luminosity, radius, massa) {
+BlackHole::BlackHole(double distance) : Star("black hole",  0, 0, 0) {
     this->distance = distance;
-    this->type = "black hole";
-    this->luminosity = luminosity;
-    this->radius = 0;
-    this->massa = massa;
 }
 
 double BlackHole::count_and_get_radius() {
