@@ -10,11 +10,10 @@
 #include "SpaceObject.h"
 
 class Star : public SpaceObject {
-private:
-    Star(std::string type, unsigned long luminosity, long radius, unsigned long massa);
-
+protected:
+    Star(std::string type, double luminosity, double radius, double massa);
     std::string type;
-    unsigned long luminosity;
+    double luminosity;
 public:
 };
 
