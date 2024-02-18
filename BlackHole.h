@@ -10,7 +10,7 @@ class BlackHole : Star {
 private:
     double distance;
 public:
-    BlackHole(std::string type, double luminosity, double massa, double distance);
+    BlackHole(double distance);
     double count_and_get_radius();
 };
 
