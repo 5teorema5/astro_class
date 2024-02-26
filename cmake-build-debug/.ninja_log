@@ -1,0 +1,15 @@
+# ninja log v5
+5	540	7306443786420096	CMakeFiles/astro_class.dir/Planet.cpp.obj	153049a8ad2747f5
+8	520	7306448000643644	build.ninja	4b2ed656c84a1400
+39	302	7306429301493766	CMakeFiles/astro_class.dir/SpaceObject.cpp.obj	23433d110bf4872d
+765	1045	7306445042962579	astro_class.exe	95da579b065a010c
+6	731	7306443032219594	CMakeFiles/astro_class.dir/Jupiter.cpp.obj	63bad52d9cfdf99b
+27	674	7306440588014041	CMakeFiles/astro_class.dir/Earth.cpp.obj	2686956eef52bfd9
+5	571	7306443453742464	CMakeFiles/astro_class.dir/Mercury.cpp.obj	9815a3b2c55a1129
+7	763	7306445040248950	CMakeFiles/astro_class.dir/main.cpp.obj	d76054d32a362c9e
+2	565	7306448000643644	build.ninja	4b2ed656c84a1400
+44	894	7306448011333651	CMakeFiles/astro_class.dir/Jupiter.cpp.obj	63bad52d9cfdf99b
+26	897	7306448011410127	CMakeFiles/astro_class.dir/Earth.cpp.obj	2686956eef52bfd9
+7	1037	7306448012937099	CMakeFiles/astro_class.dir/main.cpp.obj	d76054d32a362c9e
+6	541	7306448777459156	CMakeFiles/astro_class.dir/Jupiter.cpp.obj	63bad52d9cfdf99b
+542	835	7306448780283655	astro_class.exe	7bcc722562db99e9
