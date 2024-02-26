@@ -1,7 +1,3 @@
-//
-// Created by amali on 18.02.2024.
-//
-
 #ifndef UNTITLED2_SPACEOBJECT_H
 #define UNTITLED2_SPACEOBJECT_H
 
@@ -15,4 +11,4 @@ public:
 };
 
 
-#endif //UNTITLED2_SPACEOBJECT_H
+#endif
